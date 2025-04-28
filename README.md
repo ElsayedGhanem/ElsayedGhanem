@@ -29,3 +29,12 @@ Experienced in collaborating with clients to define business needs and deliverin
 **Data Analysis and Visualization:** Power BI, Excel, Matplotlib, and Plotly. 
 
 **Cloud platform:**  AWS, Google Cloud Platform (BigQuery).
+
+---
+
+## 📫 Get in Touch  
+
+**LinkedIn:** [https://www.linkedin.com/in/elsayed-ghanem-0608aa192/](https://www.linkedin.com/in/elsayed-ghanem-0608aa192/)  
+✉️ **Email:** eyghanem@mun.ca 
+
+
