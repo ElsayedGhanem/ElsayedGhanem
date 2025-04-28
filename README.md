@@ -16,7 +16,7 @@ Experienced in collaborating with clients to define business needs and deliverin
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🛠️ Skills  
 
 **Programming Languages:** Python, R, and Java. 
 
