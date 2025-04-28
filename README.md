@@ -13,3 +13,19 @@ B.Sc. in Computer Science and Mathematics, Alexandria University (2008–2012)
 
 A data scientist with expertise in data analytics, machine learning, predictive modeling, and business intelligence.
 Experienced in collaborating with clients to define business needs and delivering data-driven solutions using tools like Power BI, Python, and R. Proven track record of improving operational efficiency and supporting strategic decision-making.
+
+---
+
+## 🛠️ Tech Stack & Skills  
+
+**Programming Languages:** Python, R, and Java. 
+
+**Databases:** MySQL and PostgreSQL. 
+
+**Statistical Analysis Software:** SPSS, Minitab, Matlab, and SAS. 
+
+**AI/ML Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, and Pandas. 
+
+**Data Analysis and Visualization:** Power BI, Excel, Matplotlib, and Plotly. 
+
+**Cloud platform:**  AWS, Google Cloud Platform (BigQuery).
