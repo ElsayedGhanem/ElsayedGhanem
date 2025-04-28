@@ -32,9 +32,9 @@ Experienced in collaborating with clients to define business needs and deliverin
 
 ---
 
-## 📫 Get in Touch  
+## 🌐 Reach Out 
 
-**LinkedIn:** [ُElsayed Ghanem](https://www.linkedin.com/in/elsayed-ghanem-0608aa192/)  
+**LinkedIn:**[Elsayed Ghanem](https://www.linkedin.com/in/elsayed-ghanem-0608aa192/)  
 ✉️ **Email:** eyghanem@mun.ca 
 
 
