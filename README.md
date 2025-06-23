@@ -31,6 +31,14 @@ Experienced in collaborating with clients to define business needs and deliverin
 **Cloud platform:**  AWS, Google Cloud Platform (BigQuery).
 
 ---
+## 🚀 Projects
+
+Here are some of my key projects with detailed analysis and code:
+
+- **Flight Data Analysis**  
+  Exploratory Data Analysis (EDA) of airline flight delays using PostgreSQL.
+  [View Project Repository](https://github.com/ElsayedGhanem/Flight-data-analysis) 
+---
 
 ## 🌐 Reach Out 
 
