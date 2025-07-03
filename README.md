@@ -40,6 +40,22 @@ Here are some of my key projects with detailed analysis and code:
   [View Project Repository](https://github.com/ElsayedGhanem/Flight-data-analysis) 
 ---
 
+---
+## 🚀 Publications
+
+- **Statistical Method in Medical Research Journal**  
+  Unsupervised shrinkage Estimation Methods for a Mixture of Regressions.
+  [Link](https://journals.sagepub.com/doi/full/10.1177/09622802241259175)
+
+  - **Communication Statistics - Simulation and Computation Journal**  
+  Shrinkage Estimators for Mixture of Logistic Regression Models.
+  [Link](https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2443195)
+
+Liu-type Shrinkage Estimators for Mixture of Poisson Regressions with Experts: A Heart Disease Study
+[Link](https://arxiv.org/abs/2309.05838)
+
+---
+
 ## 🌐 Reach Out 
 
 **LinkedIn:** [Elsayed Ghanem](https://www.linkedin.com/in/elsayed-ghanem-0608aa192/)  
