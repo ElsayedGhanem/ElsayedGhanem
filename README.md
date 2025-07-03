@@ -40,7 +40,7 @@ Here are some of my key projects with detailed analysis and code:
   [View Project Repository](https://github.com/ElsayedGhanem/Flight-data-analysis) 
 ---
 
-## 🚀 Certifications
+## 📜 Certifications
 
 - **Coursera Certificates**  
   - The Data Scientist’s Toolbox.
@@ -56,12 +56,12 @@ Here are some of my key projects with detailed analysis and code:
   - The Complete SQL Bootcamp: Go from Zero to Hero.
   [Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3f780c4c-c985-4349-84cb-40fe97c42874.pdf)
 
-- PostgreSQL: Advanced SQL Queries and Data Analysis.
+  - PostgreSQL: Advanced SQL Queries and Data Analysis.
   [Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-570a2a07-00fa-40c6-805a-47e7dcff5466.pdf)
 
 ---
 
-## 🚀 Publications
+## 📝 Publications
 
 - **Statistical Method in Medical Research Journal**  
   Unsupervised shrinkage Estimation Methods for a Mixture of Regressions.
