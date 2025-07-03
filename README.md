@@ -51,7 +51,7 @@ Here are some of my key projects with detailed analysis and code:
   Shrinkage Estimators for Mixture of Logistic Regression Models.
   [Link](https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2443195)
 
-Liu-type Shrinkage Estimators for Mixture of Poisson Regressions with Experts: A Heart Disease Study
+- **Liu-type Shrinkage Estimators for Mixture of Poisson Regressions with Experts: A Heart Disease Study**
 [Link](https://arxiv.org/abs/2309.05838)
 
 ---
