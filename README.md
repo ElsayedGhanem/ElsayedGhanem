@@ -47,7 +47,7 @@ Here are some of my key projects with detailed analysis and code:
   Unsupervised shrinkage Estimation Methods for a Mixture of Regressions.
   [Link](https://journals.sagepub.com/doi/full/10.1177/09622802241259175)
 
-  - **Communication Statistics - Simulation and Computation Journal**  
+- **Communication Statistics - Simulation and Computation Journal**  
   Shrinkage Estimators for Mixture of Logistic Regression Models.
   [Link](https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2443195)
 
