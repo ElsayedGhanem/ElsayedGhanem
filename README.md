@@ -40,7 +40,6 @@ Here are some of my key projects with detailed analysis and code:
   [View Project Repository](https://github.com/ElsayedGhanem/Flight-data-analysis) 
 ---
 
----
 ## 🚀 Publications
 
 - **Statistical Method in Medical Research Journal**  
