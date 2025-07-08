@@ -40,7 +40,7 @@ Here are some of my key projects with detailed analysis and code:
   [View Project Repository](https://github.com/ElsayedGhanem/Flight-data-analysis)
 
   - **LLM-powered-Sentiment-Analysis**  
-  Performs sentiment analysis on the IMDB movie reviews dataset using transformer-based models from Hugging Face (BERT and DistilBERT)L.
+  Performs sentiment analysis on the IMDB movie reviews dataset using transformer-based models from Hugging Face (BERT and DistilBERT).
   [View Project Repository](https://github.com/ElsayedGhanem/LLM-powered-Sentiment-Analysis) 
 ---
 
