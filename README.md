@@ -40,7 +40,7 @@ Here are some of my key projects with detailed analysis and code:
   [View Project Repository](https://github.com/ElsayedGhanem/LLM-powered-Sentiment-Analysis)
 
 - **end-to-end-OCR-pipeline-using-Deep-Learning**  
-  This project implements an end-to-end Optical Character Recognition (OCR) pipeline that combines text detection and recognition on images using deep learning and open-source OCR libraries..
+  End-to-end OCR pipeline that detects and recognizes text in images. It uses the EAST model for text region detection, and EasyOCR and PyTesseract for recognition. The project includes evaluation using CER and WER metrics to compare model performance.
   [View Project Repository](https://github.com/ElsayedGhanem/end-to-end-OCR-pipeline-using-Deep-Learning)
  
 - **Flight Data Analysis**  
