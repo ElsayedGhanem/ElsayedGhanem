@@ -35,13 +35,17 @@ Experienced in collaborating with clients to define business needs and deliverin
 
 Here are some of my key projects with detailed analysis and code:
 
+- **LLM-powered-Sentiment-Analysis**  
+  This project implements sentiment analysis on the IMDB movie reviews dataset using transformer-based models from Hugging Face (BERT and DistilBERT). It classifies text as positive or negative by fine-tuning pre-trained language models. The project includes model training, evaluation (accuracy and confusion matrix), visualization of training loss, and an interactive Streamlit app that allows users to test the trained model on custom text.
+  [View Project Repository](https://github.com/ElsayedGhanem/LLM-powered-Sentiment-Analysis)
+
+- **end-to-end-OCR-pipeline-using-Deep-Learning**  
+  This project implements an end-to-end Optical Character Recognition (OCR) pipeline that combines text detection and recognition on images using deep learning and open-source OCR libraries..
+  [View Project Repository](https://github.com/ElsayedGhanem/end-to-end-OCR-pipeline-using-Deep-Learning)
+ 
 - **Flight Data Analysis**  
   Exploratory Data Analysis (EDA) of airline flight delays using PostgreSQL.
   [View Project Repository](https://github.com/ElsayedGhanem/Flight-data-analysis)
-
-- **LLM-powered-Sentiment-Analysis**  
-  This project implements sentiment analysis on the IMDB movie reviews dataset using transformer-based models from Hugging Face (BERT and DistilBERT). It classifies text as positive or negative by fine-tuning pre-trained language models. The project includes model training, evaluation (accuracy and confusion matrix), visualization of training loss, and an interactive Streamlit app that allows users to test the trained model on custom text.
-  [View Project Repository](https://github.com/ElsayedGhanem/LLM-powered-Sentiment-Analysis) 
 ---
 
 ## 📜 Certifications
