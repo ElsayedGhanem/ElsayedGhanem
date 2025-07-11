@@ -39,6 +39,10 @@ Here are some of my key projects with detailed analysis and code:
   This project implements sentiment analysis on the IMDB movie reviews dataset using transformer-based models from Hugging Face (BERT and DistilBERT). It classifies text as positive or negative by fine-tuning pre-trained language models. The project includes model training, evaluation (accuracy and confusion matrix), visualization of training loss, and an interactive Streamlit app that allows users to test the trained model on custom text.
   [View Project Repository](https://github.com/ElsayedGhanem/LLM-powered-Sentiment-Analysis)
 
+- **Personal-AI-Chat-Assistant**  
+  A customizable chatbot assistant built with Streamlit that connects to the OpenRouter API. The app allows users to choose and define a chatbot persona (e.g., helpful assistant, doctor, lawyer, storyteller, or custom), maintain conversation history, and save/load chats. Includes a clean Streamlit interface for interactive, personalized conversations.
+  [View Project Repository](https://github.com/ElsayedGhanem/Personal-AI-Chat-Assistant)
+
 - **end-to-end-OCR-pipeline-using-Deep-Learning**  
   End-to-end OCR pipeline that detects and recognizes text in images. It uses the EAST model for text region detection, and EasyOCR and PyTesseract for recognition. The project includes evaluation using CER and WER metrics to compare model performance.
   [View Project Repository](https://github.com/ElsayedGhanem/end-to-end-OCR-pipeline-using-Deep-Learning)
